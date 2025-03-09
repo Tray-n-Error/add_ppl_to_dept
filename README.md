@@ -4,4 +4,4 @@ A simple project where you can add "employees" to certain "departments". If the 
 
 It is the first project I have "finished" without any help.
 
-!!! the departments and names will not be saved when the project is cancelled !!!
+!!! the departments and names will not be saved when the project is exited !!!
